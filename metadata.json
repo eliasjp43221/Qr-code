@@ -1,0 +1,8 @@
+{
+  "name": "Elias QR Code",
+  "description": "Generate custom QR codes for links, text, email, phone, SMS, and WiFi, or scan QR codes from your camera and gallery with instant PNG export and sharing.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
